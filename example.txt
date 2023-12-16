@@ -1,3 +1,0 @@
-hi iam learning shell scripting
-
-hi very good morning
